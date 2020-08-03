@@ -1,0 +1,79 @@
+[{"real_name" : "mr. x",
+   "activivty_periods": [{
+     "start_time": "2020-08-03, 1:33PM",
+     "end_time": "2020-08-03, 1:33PM"
+   },
+   {
+    "start_time": "2020-08-04, 1:33PM",
+    "end_time": "2020-08-04, 1:33PM"
+  },
+  {
+    "start_time": "2020-08-05, 1:33PM",
+    "end_time": "2020-08-05, 1:33PM"
+  },
+   {
+    "start_time": "2020-08-06, 1:33PM",
+    "end_time": "2020-08-06, 1:33PM"
+  },
+  {
+    "start_time": " 2020-08-07, 1:33PM",
+    "end_time": "2020-08-07, 1:33PM"
+  },
+  {
+    "start_time": "2020-08-08, 1:33PM",
+    "end_time": "2020-08-08, 1:33PM"
+  }
+  ]
+}, {"real_name" : "mr. y",
+  "activivty_periods": [{
+    "start_time": "2020-08-03, 2:33PM",
+    "end_time": "2020-08-03, 2:33PM"
+  },
+  {
+   "start_time": "2020-08-04, 2:33PM",
+   "end_time": "2020-08-04, 2:33PM"
+ },
+ {
+   "start_time": "2020-08-05, 2:33PM",
+   "end_time": "2020-08-05, 2:33PM"
+ },
+  {
+   "start_time": "2020-08-06, 2:33PM",
+   "end_time": "2020-08-06, 2:33PM"
+ },
+ {
+   "start_time": " 2020-08-07, 2:33PM",
+   "end_time": "2020-08-07, 2:33PM"
+ },
+ {
+   "start_time": "2020-08-08, 2:33PM",
+   "end_time": "2020-08-08, 2:33PM"
+ }
+ ]
+}, {"real_name" : "mr. z",
+  "activivty_periods": [{
+    "start_time": "2020-08-03, 3:33PM",
+    "end_time": "2020-08-03, 3:33PM"
+  },
+  {
+   "start_time": "2020-08-04, 3:33PM",
+   "end_time": "2020-08-04, 3:33PM"
+ },
+ {
+   "start_time": "2020-08-05, 3:33PM",
+   "end_time": "2020-08-05, 3:33PM"
+ },
+  {
+   "start_time": "2020-08-06, 3:33PM",
+   "end_time": "2020-08-06, 3:33PM"
+ },
+ {
+   "start_time": " 2020-08-07, 3:33PM",
+   "end_time": "2020-08-07, 3:33PM"
+ },
+ {
+   "start_time": "2020-08-08, 3:33PM",
+   "end_time": "2020-08-08, 3:33PM"
+ }
+ ]
+}]
